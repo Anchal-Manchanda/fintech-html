@@ -268,6 +268,7 @@ body .btn.btn-outline-primary {
   text-transform: uppercase;
   min-width: 165px;
   border-radius: 40px;
+  background: #ffffff;
 }
 body .btn.btn-outline-primary:hover {
   background: #d32026;
@@ -508,6 +509,8 @@ body .btn.btn-outline-primary:hover {
   padding: 80px 0;
   margin-top: 150px;
   background-size: cover;
+  background-color: rgb(33 33 33 / 70%);
+  background-blend-mode: overlay;
 }
 .more-features .heading-bar h2,
 .more-features .heading-bar p {
@@ -637,19 +640,19 @@ body .btn.btn-outline-primary:hover {
 }
 
 /* .pricing-table-sec .card-deck .card span:nth-child(2)
-{
-  transform:rotate(90deg);
-} */
+  {
+    transform:rotate(90deg);
+  } */
 
 .pricing-table-sec .card-deck .card span:nth-child(3) {
   transform: rotate(180deg);
 }
 
 /* .pricing-table-sec .card-deck .card span:nth-child(4)
-{
-  transform:rotate(270deg);
-}
- */
+  {
+    transform:rotate(270deg);
+  }
+   */
 .pricing-table-sec .card-deck .card span:before {
   content: "";
   position: absolute;
@@ -858,7 +861,9 @@ body .pricing-table-sec .card-deck .card:nth-child(2) .btn.btn-primary:hover {
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.25);
 }
 .footer {
-  background: #121212;
+  background: url(../images/footer-bg.jpg);
+  background-color: rgb(18 18 18 / 33%);
+  background-blend-mode: overlay;
 }
 .footer h5 {
   color: #fff;
