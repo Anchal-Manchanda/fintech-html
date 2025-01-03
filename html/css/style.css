@@ -512,6 +512,7 @@ body .btn.btn-outline-primary:hover {
 .more-features .heading-bar h2,
 .more-features .heading-bar p {
   color: #fff;
+  font-weight: bold;
 }
 .more-features .heading-bar .sub-info {
   font-size: 20px;
@@ -857,7 +858,7 @@ body .pricing-table-sec .card-deck .card:nth-child(2) .btn.btn-primary:hover {
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.25);
 }
 .footer {
-  background: url(../images/footer-bg.jpg);
+  background: #121212;
 }
 .footer h5 {
   color: #fff;
@@ -897,7 +898,7 @@ nav.navbar {
   background: #ac1c1e;
 }
 .footer p {
-  font-weight: bold;
+  font-weight: normal;
 }
 /** Large devices (desktops, 992px and up) **/
 @media (min-width: 992px) {
