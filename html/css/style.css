@@ -562,7 +562,7 @@ body .btn.btn-outline-primary:hover {
   background: transparent;
   border: none;
 }
-.pricing-table-sec .card-header h4 {
+.pricing-table-sec .card-header h3 {
   text-transform: uppercase;
 }
 .pricing-table-sec .card {
@@ -859,13 +859,13 @@ body .pricing-table-sec .card-deck .card:nth-child(2) .btn.btn-primary:hover {
 .footer {
   background: url(../images/footer-bg.jpg);
 }
-.footer h6 {
+.footer h5 {
   color: #fff;
 }
 .follow-us a {
   color: #fff;
 }
-.footer h6 {
+.footer h5 {
   color: #fff;
   font-size: 1.2em;
 }
@@ -895,6 +895,9 @@ body .pricing-table-sec .card-deck .card:nth-child(2) .btn.btn-primary:hover {
 }
 nav.navbar {
   background: #ac1c1e;
+}
+.footer p {
+  font-weight: bold;
 }
 /** Large devices (desktops, 992px and up) **/
 @media (min-width: 992px) {
