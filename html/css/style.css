@@ -254,6 +254,7 @@ body .btn.btn-primary {
   text-transform: uppercase;
   min-width: 165px;
   border-radius: 40px;
+  font-size: 18px;
 }
 body .btn.btn-primary:hover {
   background: transparent;
