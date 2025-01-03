@@ -246,9 +246,9 @@ a:hover {
   overflow: hidden;
 }
 body .btn.btn-primary {
-  background: #d32026;
+  background: #b21003;
   color: #fff;
-  border-color: #d32026;
+  border-color: #b21003;
   padding: 12px 15px;
   font-weight: bold;
   text-transform: uppercase;
@@ -257,7 +257,7 @@ body .btn.btn-primary {
   font-size: 18px;
 }
 body .btn.btn-primary:hover {
-  background: transparent;
+  background: #fff;
   color: #d32026;
   border-color: #d32026;
 }
