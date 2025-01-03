@@ -893,7 +893,9 @@ body .pricing-table-sec .card-deck .card:nth-child(2) .btn.btn-primary:hover {
   color: #ec292d !important;
   text-decoration: none;
 }
-
+nav.navbar {
+  background: #ac1c1e;
+}
 /** Large devices (desktops, 992px and up) **/
 @media (min-width: 992px) {
 }
