@@ -282,6 +282,7 @@ body .btn.btn-outline-primary:hover {
 
 .heading-bar h2 {
   font-size: 2.7em;
+  color: #000;
 }
 .heading-bar .sub-info {
   font-size: 26px;
@@ -1138,6 +1139,7 @@ nav.navbar {
   }
   .heading-bar .sub-info {
     font-size: 20px;
+    color: #000;
   }
   .testimonials__slide p,
   .more-features .heading-bar .sub-info {
